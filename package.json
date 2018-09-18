@@ -1,0 +1,23 @@
+{
+  "name": "testingGameDemo",
+  "version": "1.0.0",
+  "description": "#### Enhancing Game Item",
+  "main": "gameFunctions.js",
+  "scripts": {
+    "test": "jest --watch --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordan-massingill/testingGameDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordan-massingill/testingGameDemo/issues"
+  },
+  "homepage": "https://github.com/jordan-massingill/testingGameDemo#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
